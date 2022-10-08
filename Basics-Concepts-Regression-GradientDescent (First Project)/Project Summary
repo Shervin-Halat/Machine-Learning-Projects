@@ -1,0 +1,4 @@
+This project covers basic and general concepts, principles, and problems in addition to 'Regression' and 'Gradient Descent' topics in 'Machine Learning' course. 
+Specifically, general defenitions along with popular terms and measures such as MSE, Bias, Variance, Regularization, and so on are covered.
+This folder contains 'Questions File', 'Report File', and 'Implementations' in python programming language.
+Also, the processed data in the project may be added.
