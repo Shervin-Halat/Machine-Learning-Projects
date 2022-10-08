@@ -1,0 +1,18 @@
+This project covers some clustering and classification models and related concepts in 'Machine Learning' course. 
+Topics covered in this project are as follows: 
+1) Support Vector Machine
+2) Accuracy
+3) F1-Score
+4) k-means
+5) clustering
+6) classification
+7) Davies-Bouldin Index
+8) Hierarchical clustering
+9) AverageLink
+10) CompleteLink
+11) SingleLink
+12) DBSCAN
+13) Purity
+and so on ...
+This folder contains 'Questions File', 'Report File', and 'Implementations' in python programming language.
+Also, the processed data in the project may be added.
