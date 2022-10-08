@@ -1,0 +1,15 @@
+This project covers some classification models and related concepts in 'Machine Learning' course. 
+Topics covered in this project are as follows: 
+1) Introduction to 'Weka' machine learning tool
+2) K-Nearest Neighbors
+3) Confusion matrix
+4) Classification
+5) Leave One Out Cross Validation
+6) Entropy
+7) Prunning
+8) Random forest
+9) Decision tree
+10) sciKit-learn 
+and so on ...
+This folder contains 'Questions File', 'Report File', and 'Implementations' in python programming language.
+Also, the processed data in the project may be added.
