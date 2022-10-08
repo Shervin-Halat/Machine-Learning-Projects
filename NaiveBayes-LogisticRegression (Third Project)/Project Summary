@@ -1,0 +1,12 @@
+This project covers two discriminatie and generative classification models (i.e. Logistic Regression and Naive-Bayes) and related concepts in 'Machine Learning' course. 
+Topics covered in this project are as follows: 
+1) Logistic Regression
+2) Naive-Bayes Classifier
+3) Smoothing
+4) One-vs-All
+5) multi_class
+6) K-Fold Cross-Validation
+7) ROC Curve
+and so on ...
+This folder contains 'Questions File', 'Report File', and 'Implementations' in python programming language.
+Also, the processed data in the project may be added.
